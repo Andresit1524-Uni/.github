@@ -4,9 +4,9 @@ Como dice el título, esta es mi cuenta de universidad, o más exactamente, orga
 [Cuenta principal](https://github.com/Andresit1524)
 
 <div align="center">
-  <h2>Stack & stats</h2>
-  <p>My stack/tools used here</p>
+  <h2>Mis herramientas</h2>
+  <p>Actuales</p>
   <img src="https://skills.syvixor.com/api/icons?i=java,python,typst,markdown" />
-  <p>Probably for future</p>
+  <p>Para el futuro... quizás</p>
   <img src="https://skills.syvixor.com/api/icons?i=godot,rust,julia,r" />
 </div>
