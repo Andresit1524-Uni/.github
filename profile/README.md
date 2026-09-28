@@ -6,7 +6,7 @@ Como dice el título, esta es mi cuenta de universidad, o más exactamente, orga
 <div align="center">
   <h2>Mis herramientas</h2>
   <p>Actuales</p>
-  <img src="https://skills.syvixor.com/api/icons?i=java,python,typst,markdown" />
+  <img src="https://skills.syvixor.com/api/icons?i=java,python,godot,typst,markdown" />
   <p>Para el futuro... quizás</p>
-  <img src="https://skills.syvixor.com/api/icons?i=godot,rust,julia,r" />
+  <img src="https://skills.syvixor.com/api/icons?i=rust,julia,r" />
 </div>
